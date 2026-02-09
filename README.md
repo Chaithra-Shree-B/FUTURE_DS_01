@@ -23,7 +23,7 @@ This project analyzes HP laptop sales performance to track revenue, profit, unit
 
 ## 📸 Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/Chaithra-Shree-B/FUTURE_DS_01/tree/main/Dashboard)
 
 ## 📂 Files
 - HP_Sales_Dashboard.xlsx → Final dashboard
